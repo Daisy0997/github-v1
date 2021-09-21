@@ -1,2 +1,2 @@
-this is sample file 1
+commits to be revert
 this is sample file 2
